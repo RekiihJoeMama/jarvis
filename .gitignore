@@ -1,0 +1,27 @@
+# Compilados y binarios
+dist/
+build/
+*.exe
+*.spec
+
+# Archivos de estado y datos personales
+config_voz.json
+estado_jarvis.json
+memoria.json
+mi_voz.npy
+foto_camara_jarvis.jpg
+
+# Scripts y media de prueba
+test_*.py
+test_*.mp4
+
+# Entorno y logs
+.env
+logs/
+__pycache__/
+# Otros archivos de prueba sueltos
+prueba.py
+portada_actual.jpg
+portada_prueba.jpg
+# Notas personales
+jarvis_notas.txt
